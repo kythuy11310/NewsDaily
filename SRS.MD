@@ -12,8 +12,8 @@
 |---|---|
 | **Tác giả** | Phan Thế Kỳ  |
 | **Ngày tạo** | 20/04/2026 |
-| **Dựa trên** | Yêu cầu phát triển tính năng chia sẻ tin tức cộng đồng |
-| **Trạng thái** | Bản nháp (Draft) |
+| **Dựa trên**  | Yêu cầu phát triển tính năng chia sẻ tin tức cộng đồng |
+| **Trạng thái**  | Bản nháp (Draft) |
 
 ---
 
