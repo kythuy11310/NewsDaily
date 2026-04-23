@@ -16,7 +16,7 @@ flowchart TD
 |---|---|
 | **Dự án** | Ứng dụng đọc tin tức và tương tác nội dung — NewsDaily |
 | **Phiên bản** | 1.0 |
-| **Ngày tạo** | 23/04/2026 |
+| **Ngày tạo** | 20/04/2026 |
 | **Người yêu cầu** | Ban Giám đốc (Sponsor) |
 | **Người phân tích/PO** | Phan Thế Kỳ — Product Owner (PO) / Business Analyst (BA) |
 
