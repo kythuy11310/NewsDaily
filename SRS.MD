@@ -75,7 +75,7 @@ Hệ thống cho phép người dùng đọc tin tức, tương tác với tác 
 |-----|---------|
 | **Mô tả** | Người dùng đăng tải bài viết tin tức/chia sẻ của riêng mình. |
 | **Input** | Tiêu đề (bắt buộc), Ảnh bìa (tuỳ chọn), Nội dung (bắt buộc), Thể loại (bắt buộc - chọn từ danh sách). |
-| **Ràng buộc** | Tiêu đề: 10 - 150 ký tự. Nội dung: Tối thiểu 50 ký tự. |
+| **ràng buộc** | Tiêu đề: 10 - 150 ký tự. Nội dung: Tối thiểu 50 ký tự. |
 | **Xử lý** | Nhấn "Đăng bài" -> Hệ thống lưu dữ liệu -> Chuyển hướng người dùng về trang chi tiết của bài viết vừa tạo. |
 | **Thông báo lỗi** | "Vui lòng nhập tiêu đề", "Nội dung bài viết quá ngắn", "Vui lòng chọn ít nhất 1 thể loại". |
 
