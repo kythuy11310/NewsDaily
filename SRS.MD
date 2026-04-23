@@ -10,8 +10,8 @@
 
 | Thông tin tài liệu | |
 |---|---|
-| **Tác giả** | Phan Thế Kỳ — Business Analyst / Product Owner |
-| **Ngày tạo** | 23/04/2026 |
+| **Tác giả** | Phan Thế Kỳ  |
+| **Ngày tạo** | 20/04/2026 |
 | **Dựa trên** | Yêu cầu phát triển tính năng chia sẻ tin tức cộng đồng |
 | **Trạng thái** | Bản nháp (Draft) |
 
